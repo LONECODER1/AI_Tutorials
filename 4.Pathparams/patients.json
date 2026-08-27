@@ -1,0 +1,67 @@
+{
+  "P001": {
+    "id": "P001",
+    "name": "Sarah Johnson",
+    "age": 34,
+    "gender": "Female",
+    "blood_group": "A+",
+    "diagnosis": "Hypertension",
+    "phone": "+1-555-0123",
+    "email": "sarah.johnson@example.com",
+    "address": "123 Elm Street, Springfield",
+    "admission_date": "2025-01-10",
+    "status": "Admitted"
+  },
+  "P002": {
+    "id": "P002",
+    "name": "Michael Chen",
+    "age": 45,
+    "gender": "Male",
+    "blood_group": "O+",
+    "diagnosis": "Type 2 Diabetes",
+    "phone": "+1-555-0187",
+    "email": "michael.chen@example.com",
+    "address": "456 Oak Avenue, Metropolis",
+    "admission_date": "2025-01-14",
+    "status": "Admitted"
+  },
+  "P003": {
+    "id": "P003",
+    "name": "Emily Davis",
+    "age": 28,
+    "gender": "Female",
+    "blood_group": "B-",
+    "diagnosis": "Asthma",
+    "phone": "+1-555-0145",
+    "email": "emily.davis@example.com",
+    "address": "789 Pine Road, Gotham",
+    "admission_date": "2025-01-20",
+    "status": "Discharged"
+  },
+  "P004": {
+    "id": "P004",
+    "name": "Robert Taylor",
+    "age": 62,
+    "gender": "Male",
+    "blood_group": "AB+",
+    "diagnosis": "Coronary Artery Disease",
+    "phone": "+1-555-0192",
+    "email": "robert.taylor@example.com",
+    "address": "321 Maple Lane, Star City",
+    "admission_date": "2025-02-01",
+    "status": "Admitted"
+  },
+  "P005": {
+    "id": "P005",
+    "name": "Jessica Martinez",
+    "age": 19,
+    "gender": "Female",
+    "blood_group": "O-",
+    "diagnosis": "Acute Appendicitis",
+    "phone": "+1-555-0164",
+    "email": "jessica.m@example.com",
+    "address": "654 Birch Boulevard, Central City",
+    "admission_date": "2025-02-15",
+    "status": "Discharged"
+  }
+}
