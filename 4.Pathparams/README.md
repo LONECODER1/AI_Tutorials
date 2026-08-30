@@ -17,3 +17,14 @@ Instead of returning a normal JSON ir crashing the server you cna gracefully rai
 - a proper HTTP status codes(like 404,400,403,etc)
 - a custom error message 
 - extra headers
+-------------------------------------------------
+
+Query Parameter
+
+it is an optional key-value pairs appended to the end of a URL used to pass additional data to the HTTP request.
+They are used for filtering,sorting,searching and pagination without altering the endpoint path itself.
+- ? => start of query params
+- each is a key-value pair
+- Multiple params are seperated by &
+
+ ------------------------------------------------- 
