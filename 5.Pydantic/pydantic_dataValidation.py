@@ -1,3 +1,4 @@
+# example for type validation
 from pydantic import BaseModel
  
 class Patient(BaseModel):
