@@ -5,6 +5,9 @@ langchain-huggingface
 transformers
 huggingface-hub
 
+#openai integration
+langchain-openai
+
 #environment variables
 python-dotenv
 
