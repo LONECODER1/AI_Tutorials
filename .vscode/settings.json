@@ -1,0 +1,21 @@
+{
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.env.windows": {
+    "PYTHONUTF8": "1"
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "cSpell.words": [
+    "dotenv",
+    "fastapi",
+    "generativeai",
+    "huggingface",
+    "langchain",
+    "lcel",
+    "numpy",
+    "pydantic",
+    "scikit",
+    "sklearn",
+    "uvicorn"
+  ]
+}

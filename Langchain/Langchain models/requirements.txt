@@ -1,0 +1,13 @@
+google-generativeai
+
+#hugging face integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#environment variables
+python-dotenv
+
+#machine-learning utilities
+numpy
+scikit-learn
