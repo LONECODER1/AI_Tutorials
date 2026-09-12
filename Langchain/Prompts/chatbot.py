@@ -5,10 +5,12 @@ load_dotenv(find_dotenv())
 
 # Specify the model argument
 model = ChatGroq(model="openai/gpt-oss-120b")
-
+history=[]
 while True:
-    user_input = input("You: ")
+    user_input = input("You: ") 
     if user_input.lower() == "quit":
         break
-    result = model.invoke(user_input)
+    history.append({"role":"user","content":user_input})
+    result = model.invoke(history)
+    history.append({"role":"assistant","content":result.content})
     print("AI: ", result.content)
